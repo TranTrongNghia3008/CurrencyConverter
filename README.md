@@ -42,8 +42,7 @@ UI Design Responsiveness: Making sure the UI adjusts appropriately across differ
 Network Requests: Proper handling of API calls to fetch currency conversion rates is essential for smooth user experience.
 Localization: The app could be enhanced by supporting multiple languages to cater to global users.
 ### **(Optional) Demo Video**
-You can view a demo video showcasing the app in action:
-Demo Video Link
+Demo Video Link: https://studenthcmusedu-my.sharepoint.com/:v:/g/personal/21120507_student_hcmus_edu_vn/Edv7ZT6OOpVAsagQbrRSxlYBH_VA5r8Lt7McwBfWkcAa8A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xefjr0
 
 ### **Contributing**
 Contributions are welcome! Please fork this repository and create a pull request for any feature enhancements or bug fixes.
