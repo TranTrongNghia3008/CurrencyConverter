@@ -43,7 +43,7 @@ The app should launch on your emulator or connected device.
 - UI Design Responsiveness: Making sure the UI adjusts appropriately across different screen sizes using LinearLayout and dp units.
 - Network Requests: Proper handling of API calls to fetch currency conversion rates is essential for smooth user experience.
 - Localization: The app could be enhanced by supporting multiple languages to cater to global users.
-### **(Optional) Demo Video**
+### **Demo Video**
 Demo Video Link: https://studenthcmusedu-my.sharepoint.com/:v:/g/personal/21120507_student_hcmus_edu_vn/Edv7ZT6OOpVAsagQbrRSxlYBH_VA5r8Lt7McwBfWkcAa8A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xefjr0
 
 
