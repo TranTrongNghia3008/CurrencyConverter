@@ -24,8 +24,10 @@ The **Currency Converter App** is a simple yet intuitive Android application tha
 - Android SDK and JDK should be set up properly.
 
 #### **2. Cloning the Repository**
+```bash
 git clone https://github.com/TranTrongNghia3008/CurrencyConverter.git
 cd CurrencyConverter
+```
 #### **3. Import into Android Studio**
 Open Android Studio.
 Click Open an existing Android Studio project.
